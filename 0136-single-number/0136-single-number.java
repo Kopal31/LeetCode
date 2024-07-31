@@ -1,17 +1,21 @@
+import java.util.HashMap;
+
 class Solution {
     public int singleNumber(int[] nums) {
-        int n = nums.length;
-        for (int i = 0; i < n; i++) {
-            int freq = 0;
-            for (int j = 0; j < n; j++) {
-                if (nums[i] == nums[j]) {
-                    freq++;
-                }
-            }
-            if (freq == 1) {
-                return nums[i];
+        HashMap<Integer, Integer> frequencyMap = new HashMap<>();
+        
+        // Count the frequency of each number
+        for (int num : nums) {
+            frequencyMap.put(num, frequencyMap.getOrDefault(num, 0) + 1);
+        }
+        
+        // Find the number that appears only once
+        for (int num : nums) {
+            if (frequencyMap.get(num) == 1) {
+                return num;
             }
         }
+        
         return -1; // This line should never be reached if the input guarantees a single number
     }
 }
