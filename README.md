@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Kopal31/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/Kopal31/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kopal31/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kopal31/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -20,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kopal31/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/Kopal31/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kopal31/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kopal31/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Kopal31/LeetCode/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kopal31/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Kopal31/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kopal31/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kopal31/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -44,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kopal31/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kopal31/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
