@@ -2,36 +2,19 @@ import java.util.*;
 
 class Solution {
     public int thirdMax(int[] nums) {
-        // Convert nums to a List of Integers to use Collections sorting
-        List<Integer> numList = Arrays.stream(nums).boxed().collect(Collectors.toList());
-        
-        // Sort in reverse order
-        Collections.sort(numList, Collections.reverseOrder());
-        
-        // Create a list to track distinct maximums
-        List<Integer> distinctMaxList = new ArrayList<>();
-        
-        // Add the first element
-        distinctMaxList.add(numList.get(0));
-        
-        // Iterate to find the next distinct maximums
-        for (int i = 1; i < numList.size(); i++) {
-            // Check if the current number is distinct
-            if (!distinctMaxList.contains(numList.get(i))) {
-                distinctMaxList.add(numList.get(i));
-            }
-            // If we have found three distinct maximums, break out of the loop
-            if (distinctMaxList.size() == 3) {
-                break;
-            }
+        HashSet<Integer> set = new HashSet<>();
+        for(int num : nums){
+            set.add(num);
         }
-        
-        // If we have less than three distinct maximums, return the first one (maximum)
-        if (distinctMaxList.size() < 3) {
-            return distinctMaxList.get(0);
-        } else {
-            // Otherwise, return the third maximum
-            return distinctMaxList.get(2);
+        //creat a list to store the element
+        List<Integer>list=new ArrayList<>();
+        for(int num : set){
+            list.add(num);
         }
+        Collections.sort(list,Collections.reverseOrder());
+        if(list.size()<3){
+            return list.get(0);
+        }
+           return  list.get(2);  
     }
 }
