@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kopal31/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/Kopal31/LeetCode/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/Kopal31/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Kopal31/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Kopal31/LeetCode/tree/master/0118-pascals-triangle) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kopal31/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/Kopal31/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Kopal31/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kopal31/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
