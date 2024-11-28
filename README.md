@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Kopal31/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/Kopal31/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Kopal31/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Kopal31/LeetCode/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kopal31/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kopal31/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/Kopal31/LeetCode/tree/master/0125-valid-palindrome) |
 ## Database
 |  |
 | ------- |
