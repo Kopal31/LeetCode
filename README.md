@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Kopal31/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kopal31/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Kopal31/LeetCode/tree/master/0414-third-maximum-number) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Kopal31/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Kopal31/LeetCode/tree/master/0792-binary-search) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Kopal31/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kopal31/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Kopal31/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kopal31/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kopal31/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Kopal31/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Kopal31/LeetCode/tree/master/0792-binary-search) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kopal31/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
