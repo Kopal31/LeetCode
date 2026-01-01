@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Kopal31/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Kopal31/LeetCode/tree/master/0792-binary-search) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Kopal31/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1929-concatenation-of-array](https://github.com/Kopal31/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kopal31/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kopal31/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Kopal31/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
