@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Kopal31/LeetCode/tree/master/0414-third-maximum-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Kopal31/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Kopal31/LeetCode/tree/master/0792-binary-search) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Kopal31/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Kopal31/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1470-shuffle-the-array](https://github.com/Kopal31/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Kopal31/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Kopal31/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kopal31/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kopal31/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Kopal31/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Sliding Window
 |  |
 | ------- |
