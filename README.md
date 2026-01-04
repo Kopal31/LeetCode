@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Kopal31/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Kopal31/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [1013-fibonacci-number](https://github.com/Kopal31/LeetCode/tree/master/1013-fibonacci-number) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Kopal31/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Hash Table
 |  |
 | ------- |
