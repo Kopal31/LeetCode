@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Kopal31/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Kopal31/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1390-four-divisors](https://github.com/Kopal31/LeetCode/tree/master/1390-four-divisors) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Kopal31/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/Kopal31/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Kopal31/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kopal31/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Kopal31/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [1013-fibonacci-number](https://github.com/Kopal31/LeetCode/tree/master/1013-fibonacci-number) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Kopal31/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Kopal31/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Hash Table
 |  |
 | ------- |
