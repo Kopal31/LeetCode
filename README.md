@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Kopal31/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Kopal31/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Kopal31/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Kopal31/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Kopal31/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kopal31/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kopal31/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Kopal31/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Kopal31/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Kopal31/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Kopal31/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Kopal31/LeetCode/tree/master/1013-fibonacci-number) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Kopal31/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Kopal31/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
