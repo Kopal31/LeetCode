@@ -1,18 +1,18 @@
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 
 class Solution {
     public boolean containsNearbyDuplicate(int[] nums, int k) {
-        Map<Integer, Integer> map = new HashMap<>();
+        Set<Integer> window = new HashSet<>();
+
         for (int i = 0; i < nums.length; i++) {
-            if (map.containsKey(nums[i])) {
-                int prevIndex = map.get(nums[i]);
-                if (i - prevIndex <= k) {
-                    return true;  // Found a duplicate within the range k
-                }
+            if (i > k) {
+                window.remove(nums[i - k - 1]);
             }
-            map.put(nums[i], i);  // Update the index of the current element
+
+            if (!window.add(nums[i])) { //f I try to add nums[i] to the set and it fails, then it was already there → duplicate found.
+                return true;
+            }
         }
-        return false;  // No such pair found
+        return false;
     }
 }
