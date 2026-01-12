@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Kopal31/LeetCode/tree/master/0792-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Kopal31/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Kopal31/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Kopal31/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Kopal31/LeetCode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Kopal31/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/Kopal31/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Kopal31/LeetCode/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/Kopal31/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Kopal31/LeetCode/tree/master/1013-fibonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Kopal31/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Kopal31/LeetCode/tree/master/1390-four-divisors) |
 ## Two Pointers
 |  |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Kopal31/LeetCode/tree/master/0085-maximal-rectangle) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Kopal31/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
