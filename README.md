@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Kopal31/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kopal31/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/Kopal31/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Kopal31/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3453-separate-squares-i](https://github.com/Kopal31/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Kopal31/LeetCode/tree/master/3454-separate-squares-ii) |
 ## Math
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kopal31/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Kopal31/LeetCode/tree/master/0414-third-maximum-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kopal31/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Kopal31/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
