@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Kopal31/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kopal31/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Kopal31/LeetCode/tree/master/0125-valid-palindrome) |
+| [1021-remove-outermost-parentheses](https://github.com/Kopal31/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Database
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Kopal31/LeetCode/tree/master/0085-maximal-rectangle) |
+| [1021-remove-outermost-parentheses](https://github.com/Kopal31/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
