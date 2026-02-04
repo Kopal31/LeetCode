@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/Kopal31/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Kopal31/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Kopal31/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3640-trionic-array-ii](https://github.com/Kopal31/LeetCode/tree/master/3640-trionic-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Kopal31/LeetCode/tree/master/1013-fibonacci-number) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Kopal31/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Kopal31/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [3640-trionic-array-ii](https://github.com/Kopal31/LeetCode/tree/master/3640-trionic-array-ii) |
 ## Hash Table
 |  |
 | ------- |
