@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Kopal31/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Kopal31/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Kopal31/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Kopal31/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3453-separate-squares-i](https://github.com/Kopal31/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Kopal31/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Kopal31/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Kopal31/LeetCode/tree/master/0414-third-maximum-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kopal31/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Kopal31/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Kopal31/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Kopal31/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Kopal31/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Quickselect
 |  |
 | ------- |
